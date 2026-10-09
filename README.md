@@ -17,3 +17,14 @@
 - 🚀 Passionate about building meaningful projects
 - 🌱 Continuously learning new technologies
 - 🤝 Open to collaboration and new opportunities
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,ts,git,github,vscode&theme=dark" alt="My Tech Stack" />
+
+</div>
+  
