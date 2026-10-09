@@ -54,3 +54,22 @@ Academic coursework and projects focused on programming language principles.
 
 </div>
   
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/amna-abdulraouf-5a033231a">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:amna.abushtya@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/amnaabdul">
+  <img src="https://img.shields.io/badge/GitHub-Follow-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+  
