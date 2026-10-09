@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**amnaabdul/amnaabdul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Amna! 👋
 
-Here are some ideas to get you started:
+### 💻 Computer Science | Software Developer | AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Passionate+about+Software+Development;Exploring+AI+and+Machine+Learning;Always+Learning+and+Building!" alt="Typing SVG" />
+
+</div>
+
+---
+
+### 👩‍💻 About Me
+
+- 🎓 Computer Science enthusiast
+- 💡 Interested in Software Engineering and AI
+- 🚀 Passionate about building meaningful projects
+- 🌱 Continuously learning new technologies
+- 🤝 Open to collaboration and new opportunities
