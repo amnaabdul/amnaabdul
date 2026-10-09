@@ -28,3 +28,18 @@
 
 </div>
   
+---
+
+### 🚀 Featured Projects
+
+#### 🅿️ [ParkVision-AI](https://github.com/amnaabdul/ParkVision-AI)
+An AI-focused project exploring intelligent parking solutions and computer vision.
+
+#### 💻 [Systems Programming](https://github.com/amnaabdul/SPL_BGU)
+Academic projects exploring systems programming and software development concepts.
+
+#### 🧩 [Programming Languages](https://github.com/amnaabdul/PPL_BGU)
+Academic coursework and projects focused on programming language principles.
+
+---
+  
